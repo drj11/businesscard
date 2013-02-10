@@ -49,17 +49,10 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="print"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,106.29922)">
-    <rect
-       style="fill:none;stroke:#00a900;stroke-opacity:1"
-       id="rect2994"
-       width="180.70866"
-       height="283.46457"
-       x="7.5866141"
-       y="-99.712616" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
@@ -126,5 +119,19 @@
          x="82.5"
          id="tspan3042"
          sodipodi:role="line">general good guy</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="do no print"
+     style="display:none">
+    <rect
+       transform="translate(0,106.29922)"
+       style="fill:none;stroke:#00a900;stroke-opacity:1"
+       id="rect2994"
+       width="180.70866"
+       height="283.46457"
+       x="7.5866141"
+       y="-99.712616" />
   </g>
 </svg>
