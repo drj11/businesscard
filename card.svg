@@ -63,7 +63,8 @@
          sodipodi:role="line"
          x="7.4406147"
          y="-15.265846"
-         id="tspan3001">@climatecode.org</tspan></text>
+         id="tspan3001"
+         dy="2 -2">@climatecode.org</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
@@ -74,7 +75,8 @@
          sodipodi:role="line"
          id="tspan3007"
          x="7.4406147"
-         y="21.884506">@pobox.com</tspan></text>
+         y="21.884506"
+         dy="2 -2">@pobox.com</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:66.66666412px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
