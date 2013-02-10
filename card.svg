@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="194.88188"
-   height="297.63779"
-   id="svg2985"
-   version="1.1"
+   sodipodi:docname="card.pdf"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="card.svg">
+   version="1.1"
+   id="svg2985"
+   height="311.81104"
+   width="209.05511">
   <defs
      id="defs3" />
   <sodipodi:namedview
@@ -24,18 +24,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="250.40319"
-     inkscape:cy="147.86052"
+     inkscape:zoom="1.51"
+     inkscape:cx="179.34411"
+     inkscape:cy="154.94713"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="mm"
      inkscape:window-width="1301"
      inkscape:window-height="744"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata2989">
     <rdf:RDF>
@@ -44,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,7 +56,7 @@
      inkscape:label="print"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,106.29922)">
+     transform="translate(7.086614,113.38585)">
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
@@ -126,7 +130,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="do no print"
-     style="display:none">
+     style="display:none"
+     transform="translate(7.086614,7.0866292)">
     <rect
        transform="translate(0,106.29922)"
        style="fill:none;stroke:#00a900;stroke-opacity:1"
@@ -135,5 +140,12 @@
        height="283.46457"
        x="7.5866141"
        y="-99.712616" />
+    <rect
+       y="-6.5251236"
+       x="-6.5251083"
+       height="310.68802"
+       width="207.9321"
+       id="rect3841"
+       style="fill:none;stroke:#00a900;stroke-width:1.12301123;stroke-opacity:1" />
   </g>
 </svg>
