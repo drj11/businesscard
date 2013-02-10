@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="191.33858"
-   height="301.18109"
+   width="194.88188"
+   height="297.63779"
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="card-ubuntu.svg">
+   sodipodi:docname="card.svg">
   <defs
      id="defs3" />
   <sodipodi:namedview
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,71 +52,78 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,109.84252)">
+     transform="translate(0,106.29922)">
+    <rect
+       style="fill:none;stroke:#00a900;stroke-opacity:1"
+       id="rect2994"
+       width="180.70866"
+       height="283.46457"
+       x="7.5866141"
+       y="-99.712616" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
-       x="2.9406147"
-       y="-20.265846"
+       x="7.4406147"
+       y="-15.265846"
        id="text2997"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="2.9406147"
-         y="-20.265846"
+         x="7.4406147"
+         y="-15.265846"
          id="tspan3001">@climatecode.org</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
-       x="2.9406147"
-       y="16.884506"
+       x="7.4406147"
+       y="21.884506"
        id="text3005"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3007"
-         x="2.9406147"
-         y="16.884506">@pobox.com</tspan></text>
+         x="7.4406147"
+         y="21.884506">@pobox.com</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:66.66666412px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
-       x="3"
-       y="-52.16143"
+       x="5.5"
+       y="-50.66143"
        id="text3028"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3030"
-         x="3"
-         y="-52.16143">drj</tspan></text>
+         x="5.5"
+         y="-50.66143">drj</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3032"
-       y="185.23416"
-       x="2.9406147"
+       y="182.73416"
+       x="6.4406147"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
        xml:space="preserve"><tspan
          id="tspan3034"
-         y="185.23416"
-         x="2.9406147"
+         y="182.73416"
+         x="6.4406147"
          sodipodi:role="line">david r jones</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
-       x="31"
-       y="-6.1614289"
+       x="30"
+       y="-1.1614289"
        id="text3036"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3038"
-         x="31"
-         y="-6.1614289">better code better science</tspan></text>
+         x="30"
+         y="-1.1614289">better code better science</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3040"
-       y="29.838572"
-       x="83"
+       y="34.83857"
+       x="82.5"
        style="font-size:12px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
        xml:space="preserve"><tspan
-         y="29.838572"
-         x="83"
+         y="34.83857"
+         x="82.5"
          id="tspan3042"
          sodipodi:role="line">general good guy</tspan></text>
   </g>
