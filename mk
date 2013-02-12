@@ -1,3 +1,7 @@
 #!/bin/sh
 
-inkscape --export-pdf=card.pdf card.svg
+for f in *.svg
+do
+  pdf=${f%.svg}.pdf
+  inkscape --export-pdf="$pdf" "$f"
+done
