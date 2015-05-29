@@ -24,17 +24,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.019066"
-     inkscape:cx="104.32832"
+     inkscape:zoom="2.9152275"
+     inkscape:cx="104.52756"
      inkscape:cy="155.9055"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="mm"
-     inkscape:window-width="3102"
-     inkscape:window-height="1764"
-     inkscape:window-x="98"
-     inkscape:window-y="36"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -125,23 +125,23 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:380;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
        x="9.7272491"
-       y="182.82957"
+       y="180.82957"
        id="text4597"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4601"
          x="9.7272491"
-         y="182.82957">github.com/drj11</tspan></text>
+         y="180.82957">github.com/drj11</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4603"
-       y="164.07957"
+       y="162.07957"
        x="9.7272491"
        style="font-size:16px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
        xml:space="preserve"><tspan
-         y="164.07957"
+         y="162.07957"
          x="9.7272491"
          id="tspan4605"
          sodipodi:role="line"
@@ -150,13 +150,13 @@
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
        x="9.7272491"
-       y="146.82957"
+       y="144.82957"
        id="text4607"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4609"
          x="9.7272491"
-         y="146.82957"
+         y="144.82957"
          dy="0 -1.5">@drjtwit</tspan></text>
     <text
        xml:space="preserve"
@@ -169,7 +169,7 @@
          sodipodi:role="line"
          id="tspan4613"
          x="276.94397"
-         y="156.00513"> </tspan></text>
+         y="156.00513" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -178,20 +178,18 @@
      style="display:none"
      transform="translate(7.086614,7.0865969)">
     <rect
-       transform="matrix(0,1,-1,0,0,0)"
        style="fill:none;stroke:#00a900;stroke-opacity:1"
        id="rect2994"
        width="180.70866"
        height="283.46457"
-       x="110.34252"
-       y="-291.05118" />
+       x="7.0866113"
+       y="7.0866208" />
     <rect
-       y="-304.1629"
-       x="96.230804"
+       y="-6.525104"
+       x="-6.525106"
        height="310.68802"
        width="207.9321"
        id="rect3841"
-       style="fill:none;stroke:#00a900;stroke-width:1.12301123;stroke-opacity:1"
-       transform="matrix(0,1,-1,0,0,0)" />
+       style="fill:none;stroke:#00a900;stroke-width:1.12301123;stroke-opacity:1" />
   </g>
 </svg>
