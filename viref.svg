@@ -78,7 +78,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="print"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-843.30706)">
@@ -712,15 +712,14 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="noprint"
-     style="display:none">
+     style="display:inline">
     <rect
-       transform="translate(0,-843.30706)"
-       style="fill:none;stroke:#00ea00;stroke-opacity:1"
+       style="fill:none;stroke:#00ea00;stroke-width:0.94434613;stroke-opacity:1"
        id="rect3186"
-       width="297.63779"
-       height="191.33858"
-       x="7.0866089"
-       y="852.16534" />
+       width="282.5202"
+       height="179.76431"
+       x="14.645401"
+       y="14.645401" />
     <path
        style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 54.37377,204.53975 0,-199.1777453"
