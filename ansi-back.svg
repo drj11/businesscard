@@ -16,7 +16,19 @@
    height="311.811"
    width="209.05511">
   <defs
-     id="defs3" />
+     id="defs3">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3891">
+      <rect
+         y="-20.475124"
+         x="-15.13179"
+         height="11.319871"
+         width="106.53321"
+         id="rect3893"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;display:inline" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -57,6 +69,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(7.086614,113.38582)">
+    <rect
+       style="fill:#eeeeef;fill-opacity:0.94117647;stroke:none;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.20000000000000001, 0.20000000000000001;stroke-dashoffset:0.38000001000000000"
+       id="rect3104"
+       width="220.24112"
+       height="320.17432"
+       x="-5.3362384"
+       y="-4.4824038"
+       transform="translate(-7.086614,-113.38582)" />
     <rect
        y="47.444702"
        x="83.937675"
@@ -125,13 +145,6 @@
        height="11.319871"
        x="-15.13179"
        y="-31.795095" />
-    <rect
-       y="-20.475124"
-       x="-15.13179"
-       height="11.319871"
-       width="87.128708"
-       id="rect4108"
-       style="fill:#ff0000;fill-opacity:1;stroke:none;display:inline" />
     <rect
        style="fill:#00ff00;fill-opacity:1;stroke:none;display:inline"
        id="rect4110"
@@ -215,6 +228,13 @@
          id="tspan4163"
          x="22.413656"
          y="-23.012159">40</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;display:inline"
+       id="rect3886"
+       width="106.53321"
+       height="11.319871"
+       x="-15.13179"
+       y="-20.475124" />
     <text
        sodipodi:linespacing="125%"
        id="text4165"
@@ -494,6 +514,16 @@
        height="10.056259"
        x="38.756474"
        y="117.47033" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3897"
+       sodipodi:cx="37.84449"
+       sodipodi:cy="190.43378"
+       sodipodi:rx="4.5922899"
+       sodipodi:ry="4.5922899"
+       d="m 42.43678,190.43378 a 4.5922899,4.5922899 0 1 1 -9.18458,0 4.5922899,4.5922899 0 1 1 9.18458,0 z"
+       transform="translate(-7.086614,-113.38582)" />
     <text
        sodipodi:linespacing="125%"
        id="text4271"
@@ -708,6 +738,18 @@
          x="56.118935"
          y="143.79463"
          id="tspan3920">_________</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3874"
+       y="-11.37719"
+       x="85.53051"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       xml:space="preserve"
+       clip-path="url(#clipPath3891)"><tspan
+         y="-11.37719"
+         x="85.53051"
+         id="tspan3876"
+         sodipodi:role="line">Red</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
