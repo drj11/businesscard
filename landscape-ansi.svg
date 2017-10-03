@@ -36,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.1272947"
-     inkscape:cx="146.27149"
-     inkscape:cy="104.52756"
+     inkscape:zoom="3.9612073"
+     inkscape:cx="131.62948"
+     inkscape:cy="109.14474"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -79,54 +79,50 @@
        transform="matrix(0,1,-1,0,0,0)"
        sodipodi:insensitive="true" />
     <rect
-       y="151.4447"
+       y="159.4447"
        x="87.937675"
        height="11.319871"
        width="120.05924"
        id="rect4233"
        style="fill:#808080;fill-opacity:1;stroke:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+       x="50.069534"
+       y="41.88921"
+       id="text3100"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3102"
+         x="50.069534"
+         y="41.88921"
+         dx="0 0 0 2.4000001">[<tspan
+   style="font-style:italic;-inkscape-font-specification:FreeMono Italic"
+   id="tspan3104"
+   dx="1">dd</tspan>m</tspan></text>
     <g
-       transform="translate(-0.61571636,-61.478689)"
-       style="display:inline"
-       id="g3329">
+       id="g5037"
+       transform="translate(23.290505,-959.31287)">
+      <rect
+         ry="1.6426699"
+         rx="1.5392565"
+         y="995.24341"
+         x="9.7899876"
+         height="7.5973482"
+         width="17.509041"
+         id="rect5029"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
       <text
          sodipodi:linespacing="125%"
-         id="text3100"
-         y="103.3679"
-         x="50.685249"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="text5031"
+         y="1001.5865"
+         x="10.577921"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
          xml:space="preserve"><tspan
-           dx="0 0 0 1.4"
-           y="103.3679"
-           x="50.685249"
-           id="tspan3102"
-           sodipodi:role="line">[<tspan
-   id="tspan3104"
-   style="font-style:italic;-inkscape-font-specification:FreeMono Italic">dd</tspan>m</tspan></text>
-      <g
-         transform="translate(23.906221,-897.83418)"
-         id="g5037">
-        <rect
-           style="fill:#000000;fill-opacity:1;stroke:none"
-           id="rect5029"
-           width="17.509041"
-           height="7.5973482"
-           x="9.7899876"
-           y="995.24341"
-           rx="1.5392565"
-           ry="1.6426699" />
-        <text
-           xml:space="preserve"
-           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
-           x="10.577921"
            y="1001.5865"
-           id="text5031"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan5033"
-             x="10.577921"
-             y="1001.5865">Esc</tspan></text>
-      </g>
+           x="10.577921"
+           id="tspan5033"
+           sodipodi:role="line">Esc</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -145,16 +141,16 @@
        width="87.128708"
        height="11.319871"
        x="-11.13179"
-       y="72.204903" />
+       y="80.204903" />
     <rect
        style="fill:#00ff00;fill-opacity:1;stroke:none;display:inline"
        id="rect4110"
        width="87.128708"
        height="11.319871"
        x="-11.13179"
-       y="94.844849" />
+       y="102.84485" />
     <rect
-       y="106.16482"
+       y="114.16482"
        x="-11.13179"
        height="11.319871"
        width="87.128708"
@@ -166,9 +162,9 @@
        width="87.128708"
        height="11.319871"
        x="-11.13179"
-       y="117.48479" />
+       y="125.48479" />
     <rect
-       y="128.80476"
+       y="136.80476"
        x="-11.13179"
        height="11.319871"
        width="87.128708"
@@ -180,9 +176,9 @@
        width="87.128708"
        height="11.319871"
        x="-11.13179"
-       y="151.4447" />
+       y="159.4447" />
     <rect
-       y="140.12473"
+       y="148.12473"
        x="-11.13179"
        height="11.319871"
        width="87.128708"
@@ -192,28 +188,28 @@
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="89.53051"
-       y="92.62281"
+       y="100.62281"
        id="text4143"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4145"
          x="89.53051"
-         y="92.62281">Red</tspan></text>
+         y="100.62281">Red</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="44.253799"
-       y="59.004604"
+       y="67.004608"
        id="text4147"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4149"
          x="44.253799"
-         y="59.004604"
+         y="67.004608"
          style="text-align:center;text-anchor:middle">set background</tspan><tspan
          sodipodi:role="line"
          x="44.253799"
-         y="70.254608"
+         y="78.254608"
          id="tspan4158"
          style="text-align:center;text-anchor:middle">40 ≤ <tspan
    style="font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Ubuntu Italic"
@@ -221,125 +217,125 @@
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="26.413656"
-       y="80.987839"
+       x="40.026279"
+       y="88.987839"
        id="text4161"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4163"
-         x="26.413656"
-         y="80.987839">40</tspan></text>
+         x="40.026279"
+         y="88.987839">40</tspan></text>
     <rect
        style="fill:#ff0000;fill-opacity:1;stroke:none;display:inline"
        id="rect3886"
        width="106.53321"
        height="11.319871"
        x="-30.536293"
-       y="83.524872" />
+       y="91.524872" />
     <text
        sodipodi:linespacing="125%"
        id="text4165"
-       y="92.303299"
-       x="26.413656"
+       y="100.3033"
+       x="40.026279"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
-         y="92.303299"
-         x="26.413656"
+         y="100.3033"
+         x="40.026279"
          id="tspan4167"
          sodipodi:role="line">41</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="26.413656"
-       y="103.69527"
+       x="40.026279"
+       y="111.69527"
        id="text4169"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4171"
-         x="26.413656"
-         y="103.69527">42</tspan></text>
+         x="40.026279"
+         y="111.69527">42</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4173"
-       y="114.94775"
-       x="26.413656"
+       y="122.94775"
+       x="40.026279"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
-         y="114.94775"
-         x="26.413656"
+         y="122.94775"
+         x="40.026279"
          id="tspan4175"
          sodipodi:role="line">43</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bbbbbb;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="26.413656"
-       y="126.26323"
+       x="40.026279"
+       y="134.26323"
        id="text4177"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4179"
-         x="26.413656"
-         y="126.26323">44</tspan></text>
+         x="40.026279"
+         y="134.26323">44</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4181"
-       y="137.51569"
-       x="26.413656"
+       y="145.51569"
+       x="40.026279"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
-         y="137.51569"
-         x="26.413656"
+         y="145.51569"
+         x="40.026279"
          id="tspan4183"
          sodipodi:role="line">45</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="26.413656"
-       y="148.84917"
+       x="40.026279"
+       y="156.84917"
        id="text4185"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4187"
-         x="26.413656"
-         y="148.84917">46</tspan></text>
+         x="40.026279"
+         y="156.84917">46</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4189"
-       y="160.22314"
-       x="26.413656"
+       y="168.22314"
+       x="40.026279"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
-         y="160.22314"
-         x="26.413656"
+         y="168.22314"
+         x="40.026279"
          id="tspan4191"
          sodipodi:role="line">47</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4193"
-       y="59.004604"
-       x="158.2538"
+       y="66.752151"
+       x="139.32018"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
          style="text-align:center;text-anchor:middle"
-         y="59.004604"
-         x="158.2538"
+         y="66.752151"
+         x="139.32018"
          id="tspan4195"
          sodipodi:role="line">set foreground</tspan><tspan
          style="text-align:center;text-anchor:middle"
          id="tspan4197"
-         y="70.254608"
-         x="158.2538"
+         y="78.002151"
+         x="139.32018"
          sodipodi:role="line">30 ≤ <tspan
    id="tspan4199"
    style="font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Ubuntu Italic">dd</tspan> ≤ 37</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4201"
-       y="80.987839"
+       y="88.987839"
        x="134.41367"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
-         y="80.987839"
+         y="88.987839"
          x="134.41367"
          id="tspan4203"
          sodipodi:role="line">30</tspan></text>
@@ -347,21 +343,21 @@
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0101;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="134.41367"
-       y="92.303299"
+       y="100.3033"
        id="text4205"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4207"
          x="134.41367"
-         y="92.303299">31</tspan></text>
+         y="100.3033">31</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4209"
-       y="103.69527"
+       y="111.69527"
        x="134.41367"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
-         y="103.69527"
+         y="111.69527"
          x="134.41367"
          id="tspan4211"
          sodipodi:role="line">32</tspan></text>
@@ -369,21 +365,21 @@
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="134.41367"
-       y="114.94775"
+       y="122.94775"
        id="text4213"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4215"
          x="134.41367"
-         y="114.94775">33</tspan></text>
+         y="122.94775">33</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4217"
-       y="126.26323"
+       y="134.26323"
        x="134.41367"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
-         y="126.26323"
+         y="134.26323"
          x="134.41367"
          id="tspan4219"
          sodipodi:role="line">34</tspan></text>
@@ -391,21 +387,21 @@
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="134.41367"
-       y="137.51569"
+       y="145.51569"
        id="text4221"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4223"
          x="134.41367"
-         y="137.51569">35</tspan></text>
+         y="145.51569">35</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4225"
-       y="148.84917"
+       y="156.84917"
        x="134.41367"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
-         y="148.84917"
+         y="156.84917"
          x="134.41367"
          id="tspan4227"
          sodipodi:role="line">36</tspan></text>
@@ -413,90 +409,90 @@
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="134.41367"
-       y="160.22314"
+       y="168.22314"
        id="text4229"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4231"
          x="134.41367"
-         y="160.22314">37</tspan></text>
+         y="168.22314">37</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="89.53051"
-       y="81.302841"
+       y="89.302841"
        id="text4235"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4237"
          x="89.53051"
-         y="81.302841">Black</tspan></text>
+         y="89.302841">Black</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="89.782509"
-       y="103.63228"
+       y="111.63228"
        id="text4239"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4241"
          x="89.782509"
-         y="103.63228">Green</tspan></text>
+         y="111.63228">Green</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="90.250511"
-       y="115.25826"
+       y="123.25826"
        id="text4243"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4245"
          x="90.250511"
-         y="115.25826">Yellow</tspan></text>
+         y="123.25826">Yellow</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="89.53051"
-       y="126.58273"
+       y="134.58273"
        id="text4247"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4249"
          x="89.53051"
-         y="126.58273">Blue</tspan></text>
+         y="134.58273">Blue</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="89.701508"
-       y="136.73721"
+       y="144.73721"
        id="text4251"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4253"
          x="89.701508"
-         y="136.73721">Magenta</tspan></text>
+         y="144.73721">Magenta</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="89.782509"
-       y="148.12918"
+       y="156.12918"
        id="text4255"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4257"
          x="89.782509"
-         y="148.12918">Cyan</tspan></text>
+         y="156.12918">Cyan</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="90.052513"
-       y="160.54263"
+       y="168.54263"
        id="text4259"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4261"
          x="90.052513"
-         y="160.54263">White</tspan></text>
+         y="168.54263">White</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -801,29 +797,29 @@
     <text
        sodipodi:linespacing="125%"
        id="text3281"
-       y="15.302841"
-       x="15.53051"
+       y="10.758772"
+       x="8.2095098"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
-         y="15.302841"
-         x="15.53051"
+         y="10.758772"
+         x="8.2095098"
          id="tspan3283"
          sodipodi:role="line">ANSI escapes</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="15.53051"
-       y="29.302841"
+       x="23.861303"
+       y="30.060186"
        id="text3285"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3287"
-         x="15.53051"
-         y="29.302841">all begin</tspan></text>
+         x="23.861303"
+         y="30.060186">all begin</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:19.07924461px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
-       x="35.600307"
+       x="-31.177042"
        y="-31.481083"
        id="text3289"
        sodipodi:linespacing="125%"
@@ -832,64 +828,90 @@
        inkscape:transform-center-y="-7.2686837"><tspan
          sodipodi:role="line"
          id="tspan3291"
-         x="35.600307"
+         x="-31.177042"
          y="-31.481083">{</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3293"
-       y="29.302841"
-       x="68.257378"
+       y="52.275639"
+       x="69.519623"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
-         y="29.302841"
-         x="68.257378"
+         y="52.275639"
+         x="69.519623"
          id="tspan3295"
-         sodipodi:role="line">end with a letter</tspan></text>
+         sodipodi:role="line">a letter ends the sequence</tspan></text>
     <g
-       transform="matrix(0,0.83860761,-1.1924528,0,0,0)"
-       inkscape:transform-center-x="4.134265"
-       inkscape:transform-center-y="-7.2686837"
-       style="font-size:19.07924461px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
-       id="text3305">
-      <path
-         d="m 38.118768,-59.215536 c 0.817348,0.32555 1.104467,0.605467 1.353142,1.212466 0.191119,0.506481 0.605826,0.612528 0.885659,0.714286 0.279824,0.101753 0.654884,0.0806 1.176389,0.08061 l 0,0.953962 -0.152634,0 c -0.610541,0 -1.119321,-0.06996 -1.52634,-0.209871 -0.407028,-0.139918 -0.731375,-0.34343 -0.973041,-0.610536 -0.228954,-0.267112 -0.368704,-0.543799 -0.598479,-1.028134 -0.549147,-0.516946 -0.844928,-0.558978 -1.862744,-0.635799 l 0,-0.934883 c 0.566016,0.152635 1.132032,0.305269 1.698048,0.457904"
-         id="path3310"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccsccssccccc" />
-      <path
-         sodipodi:nodetypes="ccsccssccccc"
-         inkscape:connector-curvature="0"
-         id="path3312"
-         d="m 38.118768,-59.215536 c 0.817348,0.32555 1.104467,0.605467 1.353142,1.212466 0.191119,0.506481 0.605826,0.612528 0.885659,0.714286 0.279824,0.101753 0.654884,0.0806 1.176389,0.08061 l 0,0.953962 -0.152634,0 c -0.610541,0 -1.119321,-0.06996 -1.52634,-0.209871 -0.407028,-0.139918 -0.731375,-0.34343 -0.973041,-0.610536 -0.228954,-0.267112 -0.368704,-0.543799 -0.598479,-1.028134 -0.549147,-0.516946 -0.844928,-0.558978 -1.862744,-0.635799 l 0,-0.934883 c 0.566016,0.152635 1.132032,0.305269 1.698048,0.457904" />
-    </g>
-    <g
-       id="g3314"
-       style="font-size:19.07924461px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
-       inkscape:transform-center-y="-7.2686837"
-       inkscape:transform-center-x="-4.1342677"
-       transform="matrix(0,0.83860761,1.1924528,0,141.20988,0)">
-      <path
-         sodipodi:nodetypes="ccsccssccccc"
-         inkscape:connector-curvature="0"
-         id="path3316"
-         d="m 38.118768,-59.215536 c 0.817348,0.32555 1.104467,0.605467 1.353142,1.212466 0.191119,0.506481 0.605826,0.612528 0.885659,0.714286 0.279824,0.101753 0.654884,0.0806 1.176389,0.08061 l 0,0.953962 -0.152634,0 c -0.610541,0 -1.119321,-0.06996 -1.52634,-0.209871 -0.407028,-0.139918 -0.731375,-0.34343 -0.973041,-0.610536 -0.228954,-0.267112 -0.368704,-0.543799 -0.598479,-1.028134 -0.549147,-0.516946 -0.844928,-0.558978 -1.862744,-0.635799 l 0,-0.934883 c 0.566016,0.152635 1.132032,0.305269 1.698048,0.457904" />
-      <path
-         d="m 38.118768,-59.215536 c 0.817348,0.32555 1.104467,0.605467 1.353142,1.212466 0.191119,0.506481 0.605826,0.612528 0.885659,0.714286 0.279824,0.101753 0.654884,0.0806 1.176389,0.08061 l 0,0.953962 -0.152634,0 c -0.610541,0 -1.119321,-0.06996 -1.52634,-0.209871 -0.407028,-0.139918 -0.731375,-0.34343 -0.973041,-0.610536 -0.228954,-0.267112 -0.368704,-0.543799 -0.598479,-1.028134 -0.549147,-0.516946 -0.844928,-0.558978 -1.862744,-0.635799 l 0,-0.934883 c 0.566016,0.152635 1.132032,0.305269 1.698048,0.457904"
-         id="path3318"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccsccssccccc" />
+       id="g3324"
+       transform="translate(0,-56)">
+      <g
+         id="text3305"
+         style="font-size:19.07924461px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+         inkscape:transform-center-y="-7.2686837"
+         inkscape:transform-center-x="4.134265"
+         transform="matrix(0,0.83860761,-1.1924528,0,0,0)">
+        <path
+           sodipodi:nodetypes="ccsccssccccc"
+           inkscape:connector-curvature="0"
+           id="path3310"
+           d="m 38.118768,-59.215536 c 0.817348,0.32555 1.104467,0.605467 1.353142,1.212466 0.191119,0.506481 0.605826,0.612528 0.885659,0.714286 0.279824,0.101753 0.654884,0.0806 1.176389,0.08061 l 0,0.953962 -0.152634,0 c -0.610541,0 -1.119321,-0.06996 -1.52634,-0.209871 -0.407028,-0.139918 -0.731375,-0.34343 -0.973041,-0.610536 -0.228954,-0.267112 -0.368704,-0.543799 -0.598479,-1.028134 -0.549147,-0.516946 -0.844928,-0.558978 -1.862744,-0.635799 l 0,-0.934883 c 0.566016,0.152635 1.132032,0.305269 1.698048,0.457904" />
+        <path
+           d="m 38.118768,-59.215536 c 0.817348,0.32555 1.104467,0.605467 1.353142,1.212466 0.191119,0.506481 0.605826,0.612528 0.885659,0.714286 0.279824,0.101753 0.654884,0.0806 1.176389,0.08061 l 0,0.953962 -0.152634,0 c -0.610541,0 -1.119321,-0.06996 -1.52634,-0.209871 -0.407028,-0.139918 -0.731375,-0.34343 -0.973041,-0.610536 -0.228954,-0.267112 -0.368704,-0.543799 -0.598479,-1.028134 -0.549147,-0.516946 -0.844928,-0.558978 -1.862744,-0.635799 l 0,-0.934883 c 0.566016,0.152635 1.132032,0.305269 1.698048,0.457904"
+           id="path3312"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsccssccccc" />
+      </g>
+      <g
+         transform="matrix(0,0.83860761,1.1924528,0,141.20988,0)"
+         inkscape:transform-center-x="-4.1342677"
+         inkscape:transform-center-y="-7.2686837"
+         style="font-size:19.07924461px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+         id="g3314">
+        <path
+           d="m 38.118768,-59.215536 c 0.817348,0.32555 1.104467,0.605467 1.353142,1.212466 0.191119,0.506481 0.605826,0.612528 0.885659,0.714286 0.279824,0.101753 0.654884,0.0806 1.176389,0.08061 l 0,0.953962 -0.152634,0 c -0.610541,0 -1.119321,-0.06996 -1.52634,-0.209871 -0.407028,-0.139918 -0.731375,-0.34343 -0.973041,-0.610536 -0.228954,-0.267112 -0.368704,-0.543799 -0.598479,-1.028134 -0.549147,-0.516946 -0.844928,-0.558978 -1.862744,-0.635799 l 0,-0.934883 c 0.566016,0.152635 1.132032,0.305269 1.698048,0.457904"
+           id="path3316"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsccssccccc" />
+        <path
+           sodipodi:nodetypes="ccsccssccccc"
+           inkscape:connector-curvature="0"
+           id="path3318"
+           d="m 38.118768,-59.215536 c 0.817348,0.32555 1.104467,0.605467 1.353142,1.212466 0.191119,0.506481 0.605826,0.612528 0.885659,0.714286 0.279824,0.101753 0.654884,0.0806 1.176389,0.08061 l 0,0.953962 -0.152634,0 c -0.610541,0 -1.119321,-0.06996 -1.52634,-0.209871 -0.407028,-0.139918 -0.731375,-0.34343 -0.973041,-0.610536 -0.228954,-0.267112 -0.368704,-0.543799 -0.598479,-1.028134 -0.549147,-0.516946 -0.844928,-0.558978 -1.862744,-0.635799 l 0,-0.934883 c 0.566016,0.152635 1.132032,0.305269 1.698048,0.457904" />
+      </g>
     </g>
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="80.257378"
-       y="41.302841"
+       x="137.31068"
+       y="18.330048"
        id="text3320"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3322"
-         x="80.257378"
-         y="41.302841">m changes the text style</tspan></text>
+         x="137.31068"
+         y="18.330048">m changes the text style</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.70866142, 0.70866142;stroke-dashoffset:0"
+       d="m 55.773009,20.70159 0,23.730139"
+       id="path3332"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4109"
+       d="m 68.530353,34.70159 0,23.730139"
+       style="fill:none;stroke:#000000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.70866142, 0.70866142;stroke-dashoffset:0" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="184.5397"
+       y="65.916939"
+       id="text4111"
+       sodipodi:linespacing="125%"
+       transform="translate(-7.086614,-10.62993)"><tspan
+         sodipodi:role="line"
+         id="tspan4113"
+         x="184.5397"
+         y="65.916939"> </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
