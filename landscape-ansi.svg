@@ -859,7 +859,7 @@
          id="tspan4172"
          sodipodi:role="line"><tspan
    style="font-weight:bold"
-   id="tspan4244">2</tspan> one or more</tspan></text>
+   id="tspan4244">2</tspan> numbers</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4300"
@@ -876,13 +876,13 @@
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="126.50331"
+       x="120.50331"
        y="20.813932"
        id="text4174"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4176"
-         x="126.50331"
+         x="120.50331"
          y="20.813932"><tspan
    style="font-weight:bold"
    id="tspan4246">3</tspan> ends with a</tspan></text>
@@ -906,7 +906,7 @@
        style="fill:none;stroke:#000000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.70866144, 0.70866144;stroke-dashoffset:0" />
     <path
        style="fill:none;stroke:#555555;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.70866144, 0.70866144;stroke-dashoffset:0"
-       d="m 87.089663,49.573594 0.252448,4.642 41.362349,-0.252448 0,-29.329706"
+       d="m 87.089663,49.573594 0.252448,4.642 35.362349,-0.252448 0,-29.329706"
        id="path4190"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -931,16 +931,16 @@
          sodipodi:role="line"
          id="tspan4206"
          x="73.016144"
-         y="29.31452">numbers</tspan></text>
+         y="29.31452">(optional)</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4208"
        y="29.31452"
-       x="133.46449"
+       x="127.46449"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
          y="29.31452"
-         x="133.46449"
+         x="127.46449"
          id="tspan4210"
          sodipodi:role="line">function letter</tspan></text>
     <path
