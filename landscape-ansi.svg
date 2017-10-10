@@ -92,7 +92,7 @@
      inkscape:cx="146.27149"
      inkscape:cy="104.52756"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="mm"
      inkscape:window-width="1855"
@@ -1141,7 +1141,7 @@
            height="48.825676"
            x="192.18617"
            y="11.415013" /></flowRegion><flowPara
-         id="flowPara4330"></flowPara></flowRoot>    <path
+         id="flowPara4330" /></flowRoot>    <path
        style="fill:none;stroke:#555555;stroke-width:0.99921262000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.99921262000000000, 1.99842524999999993;stroke-dashoffset:0;marker-end:none"
        d="m 246.72876,47.273359 18.98555,0 0,17.140929 -22.17977,0"
        id="path4350"
@@ -1164,7 +1164,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="do no print"
-     style="display:inline"
+     style="display:none"
      transform="translate(7.086614,-95.669293)">
     <g
        id="g3110"
